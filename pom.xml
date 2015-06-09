@@ -10,10 +10,6 @@
   <name>trainingapp</name>
   <url>http://maven.apache.org</url>
 
-	<br >
-	more code... 
-	<br />
-	
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
